@@ -1,1 +1,1 @@
-holepunch::write_install()
+holepunch::write_runtime()
