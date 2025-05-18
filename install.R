@@ -1,4 +1,4 @@
 install.packages("readr")
 install.packages("tidyverse")
-install.packages("remote")
+install.packages("remotes")
 remotes::install_github("karthik/holepunch")
